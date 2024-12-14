@@ -20,7 +20,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
     appId = "1690800";
     depotId = "1690802";
     manifestId = "5954014120064192401";
-    hash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+    hash = "sha256-v4FR3OxIoRIaLZ+sm+IcJbJtj555I5+WXsgASPISpbk=";
   };
 
   dontBuild = true;
